@@ -1,0 +1,17 @@
+{
+  "name": "strip-symbols-unicode",
+  "version": "1.0.1",
+  "description": "Strip symbols from string. Supports unicode symbols (\\p{Punctuation}.",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "author": "Eirik Birkeland",
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "^0.20.0"
+  },
+  "dependencies": {
+    "xregexp": "^3.2.0"
+  }
+}
